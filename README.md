@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'm+Khalid+Shaifullah;+It's+Not+A+Name+Brother;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESH-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-<h1 align="center">Hi <img src="https://github.com/Khalid2009sm/Khalid2009sm/blob/main/Wave.gif" height="55px" width="55px">, I'm Khalid Shaifullah</h1>
+<h1 align="center">Hi <img src="https://github.com/KHALID-SHAIFULLAH/KHALID-SHAIFULLAH/blob/main/Wave.gif" height="55px" width="55px">, I'm Khalid Shaifullah</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
@@ -47,10 +47,10 @@ Programmer | Content Creator | Learner
 <br />
 > MY PROFILE VISITORS :
  
-![Visitor Count](https://profile-counter.glitch.me/Khalid2009sm/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/KHALID-SHAIFULLAH/count.svg)
  
-- ![Profile views](https://gpvc.arturio.dev/Khalid2009sm)
-- [![GitHub followers](https://img.shields.io/github/followers/Khalid2009sm.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/KHALID-SHAIFULLAH)
+- [![GitHub followers](https://img.shields.io/github/followers/KHALID-SHAIFULLAH.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
  
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
@@ -59,7 +59,7 @@ Programmer | Content Creator | Learner
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=htr-tech&show_icons=true&locale=en&layout=compact" alt="KHALID SHAIFULLAH" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Khalid2009sm&show_icons=true&locale=en" alt="KHALID SHAIFULLAH" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=KHALID-SHAIFULLAH&show_icons=true&locale=en" alt="KHALID SHAIFULLAH" /></p>
 <br />
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 🇧🇩 <i>Resident of Bangladesh</i></li>
